@@ -9,6 +9,6 @@
 
 ## Considerações
 
-Resumidamente, o projeto custou, aproximadamente, **R$3.700**.  
+Resumidamente, o desenvolvimento do protótipo custou, aproximadamente, **R$3.700**.  
 Este projeto foi exclusivamente desenvolvido para o Trabalho de Conclusão de Curso (TCC) de Engenharia de Produção.  
 Maiores informações não foram/serão anexadas nesse repositório.
