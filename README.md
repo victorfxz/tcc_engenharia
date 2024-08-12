@@ -7,4 +7,8 @@
 > 📽️ Vídeo de apresentação da "empresa", do processo de strechamento (ou envolvimento) e da Strechadeira Semiautomática
 > https://drive.google.com/file/d/1H8QCSe1ykJPEdqvt07SbOQ9s6FRhmSbD/view?usp=sharing
 
-<p align="center"><img src="https://i.postimg.cc/brF3Trpj/eqip.png" width="550"></p>
+## Considerações
+
+Resumidamente, o projeto custou, aproximadamente, **R$3.700**.  
+Este projeto foi exclusivamente desenvolvido para o Trabalho de Conclusão de Curso (TCC) de Engenharia de Produção.  
+Maiores informações não foram/serão anexadas nesse repositório.
